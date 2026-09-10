@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+tests
+k8s
+.git
+.github
+.env
+*.log
+Dockerfile
+.dockerignore
+README.md
